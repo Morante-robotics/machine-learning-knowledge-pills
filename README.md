@@ -1,6 +1,6 @@
 # Machine Learning Knowledge Pills
 
-[![notebooks](https://github.com/Morante-tech/machine-learning-knowledge-pills/actions/workflows/notebooks.yml/badge.svg)](https://github.com/Morante-tech/machine-learning-knowledge-pills/actions/workflows/notebooks.yml)
+[![notebooks](https://github.com/Morante-robotics/machine-learning-knowledge-pills/actions/workflows/notebooks.yml/badge.svg)](https://github.com/Morante-robotics/machine-learning-knowledge-pills/actions/workflows/notebooks.yml)
 
 Small tutorials and posts explaining practical things about Machine Learning and Data Science.
 
